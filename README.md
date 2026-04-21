@@ -35,7 +35,7 @@ I'm an MCA (Master of Computer Application) student currently exploring the worl
 
 # 🧠 LLMs & AI
 
-Gemini API, Intent Classification, Prompt Engineering, RAG
+Gemini API, Intent Classification, Prompt Engineering, RAG, Structured Output Generation.
 
 ---
 
