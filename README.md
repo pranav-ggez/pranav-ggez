@@ -46,8 +46,8 @@ I'm an MCA (Master of Computer Application) student currently exploring the worl
 ---
 
 # 📫 Contact Me
-📧 Email: pranavvaidya304@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/pranav-vaidya-025326255/
+- 📧 Email: pranavvaidya304@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/pranav-vaidya-025326255/
 
 ---
 
