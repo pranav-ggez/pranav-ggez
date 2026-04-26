@@ -59,3 +59,5 @@ Gemini API, Intent Classification, Prompt Engineering, RAG, Structured Output Ge
 ---
 
 If you're interested in building AI-driven products or want to build something, hit me up! Let's build.
+
+Open to internship/job offers for full-stack and cybersecurity related fields.
