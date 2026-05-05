@@ -16,6 +16,7 @@ I'm an MCA (Master of Computer Application) student currently exploring the worl
 
 * MEDBridge: Internal communication platform for medical & pharma teams designed to streamline collaboration, reduce friction, and improve workplace efficiency.
 * ForgeWrite: AI-powered prompt compiler that transforms vague ideas into structured, high-quality prompts built for users who struggle to articulate intent effectively.
+* hiveFind: A Multimodal RAG designed to boost student workspace and enhance the ease of accessing and organizing coursework such as notes, timetables, flashcards etc, AI powered by Qwen 2.5:3b on Ollama
 * Silent Shield: PWA focused on women's safety enables quick SOS alerts and emergency response in critical situations (WIP).
 * xAtlas: A Cybersecurity and OSINT based website designed for monitoring digital footprint and enhancing device security awareness (WIP).
 
